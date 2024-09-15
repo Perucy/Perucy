@@ -11,4 +11,4 @@ Perucy/Perucy is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perucy&show_icons=true)
-[![My Skills](https://skillicons.dev/icons?i=c,c++,py,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,aws)](https://skillicons.dev)
