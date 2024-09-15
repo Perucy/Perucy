@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Perucy
+- 🛠️ I program in C++, C and Python (My C/C++ projects are private at the moment since they are course projects and I have to abide to academic integrity)
 - 👀 I’m interested in Software Development, Artificial Intelligence, Machine Learning, Cloud Engineering and Cybersecurity
 - 🌱 I’m currently developing LLM-powered systems, pursuing AWS Cloud certification and Google cybersecurity courses.
 - 💞️ I’m looking to collaborate on software development projects
