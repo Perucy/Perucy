@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Perucy
-- 👀 I’m interested in Artificial Intelligence, Robotics and Machine Learning 
-- 🌱 I’m currently learning Artificial Intelligence, Human-Computer Interaction
-- 💞️ I’m looking to collaborate on Artificial Intelligence, Robotics and Machine Learning projects
+- 👀 I’m interested in Software Development, Artificial Intelligence, Machine Learning, Cloud Engineering and Cybersecurity
+- 🌱 I’m currently developing LLM-powered systems, pursuing AWS Cloud certification and Google cybersecurity courses.
+- 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me perucymussiba@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love Soccer (Football)
