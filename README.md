@@ -17,6 +17,6 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,aws)](https://skillicons.dev)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perucy&show_icons=true)
+
 
 
