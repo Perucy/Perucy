@@ -12,11 +12,11 @@ I'm Perucy, a passionate software engineer interested in building innovative sol
   
 **Academic Projects**  
 These projects remain in private repositories to ensure compliance with Tufts University's academic integrity guidelines, which restrict the public sharing of coursework code to maintain the integrity of current and future course offerings.
-- **CS11:**
-- **CS15:**
-- **CS40-Machine-Structure-Assembly-Language:**
-- **CS111-OperatingSystems:**
-- **CS132-ComputerVision:**
+- **CS11:** Introduction to Computer Science in C++
+- **CS15:** Data Structures and Algorithms in C++
+- **CS40-Machine-Structure-Assembly-Language:** Computer Architecture, Machine Structure and Assembly Language in C
+- **CS111-OperatingSystems:** OS in C
+- **CS132-ComputerVision:** Computer Vision, AI and ML in Python
 
 ## 💡 Interests
 
