@@ -4,9 +4,9 @@ I'm Perucy, a passionate software engineer interested in building innovative sol
 
 ## 🚀 What I'm Working On
 **Personal Projects**
-- **VulnGPT:**
-- **FitPro:**
-- **Backend:**
+- **VulnGPT:** AI-powered vulnerability information discovery and analysis for security analysts
+- **FitPro:** Smart workout application linking Whoop and Spotify, and smart coaching using AI and Google TTS
+- **Backend:** FitPro's backend using FastAPI, Redis, PostgreSQL
 - **SafeEats:** Implementing a Python solution for food safety analysis and data-driven recommendations.
 - **mcp:** Designing and maintaining MCP Servers for automation and workflow enhancement.
   
