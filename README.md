@@ -30,7 +30,6 @@ These projects remain in private repositories to ensure compliance with Tufts Un
 ## 📫 How to Reach Me
 
 Feel free to reach out or connect!
-- **Email:** [@Perucy Gmail](perucymussiba@gmail.com)
 - **LinkedIn:** [@Perucy LinkedIn](www.linkedin.com/in/perucy-mussiba-361846222)
 - Or, open an issue in this repository!
 
