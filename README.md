@@ -35,7 +35,10 @@ Feel free to reach out or connect!
 
 ---
 
-Thanks for visiting! 😊
+Thanks for visiting! 😊  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=perucy&theme=dark)](https://git.io/streak-stats)
+
 
 <!---
 Perucy/Perucy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
