@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Perucy!
-
-I'm Perucy, a passionate software engineer interested in building innovative solutions across music technology, AI, automation, security, and computer vision. I enjoy exploring new programming languages, contributing to open-source, and continuously improving my workflow and developer environment.
-
 ## 🚀 What I'm Working On
 **Personal Projects**
 - **VulnGPT:** AI-powered vulnerability information discovery and analysis for security analysts
